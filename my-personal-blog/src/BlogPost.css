@@ -1,0 +1,22 @@
+.blog-post {
+    padding: 20px;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .blog-post h2 {
+    margin-top: 0;
+  }
+  
+  .meta {
+    color: #888;
+  }
+  
+  .post-image {
+    width: 100%;
+    height: auto;
+    margin: 10px 0;
+  }
+  
+  .content {
+    margin: 20px 0;
+  }
